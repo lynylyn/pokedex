@@ -46,3 +46,4 @@ def remove_pokemon(name):
         print("Pokémon not found in your Pokédex.")
 
 #<------------------------------TEST YOUR FUNCTIONS BELOW------------------------------>
+print(search_pokemon('Pikachu'))
